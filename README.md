@@ -4,7 +4,7 @@
 <b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Fluid Mechanics Lab
-<b> Experiment|   <b> Variable area duct and verifying Bernoulli’s energyequation.
+<b> Experiment|   <b> Variable area duct and verifying Bernoulli's energy equation.
 
 ### About the Experiment 
 
