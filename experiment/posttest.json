@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "(1) Dynamic pressure is defined as:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(ρV<sup>2</sup>)/2",
+        "b": "(3ρV<sup>2</sup>)/2",
+        "c": "ρV/2",
+        "d": "(ρV<sup>2</sup>)/4 "
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,148 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "(2) Pressure term in Bernoulli’s equation is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Static pressure",
+        "b": "Stagnation pressure",
+        "c": "Dynamic pressure",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(3) Stagnation pressure is defined as:",
+      "answers": {
+        "a": "P_total + (ρV^2)/2",
+        "b": "P_static+ (ρV^2)/2",
+        "c": "P_static+ ρV/2",
+        "d": "P_total+  ρV/2"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(4) Assumption of flow in Bernoulli’s theorem: ",
+      "answers": {
+        "a": "steady",
+        "b": "irrotational",
+        "c": "frictionless",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(5) Bernoulli’s equation holds true only for:",
+      "answers": {
+        "a": "low viscosity and incompressible fluid in turbulent flow",
+        "b": "low viscosity and compressible fluid in turbulent flow",
+        "c": "low viscosity and incompressible fluid in streamline flow",
+        "d": "high viscosity and incompressible fluid in streamline"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(6) In a horizontal pipe when water is not flowing, pressure 3x10<sup>5</sup> Pa. When water starts flowing pressure falls to 2.5x10<sup>5</sup> Pa. what is the flow velocity of water",
+      "answers": {
+        "a": "5",
+        "b": "10",
+        "c": "20",
+        "d": "15"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(7) Magnus effect is based on:",
+      "answers": {
+        "a": "Poiseuille’s Law",
+        "b": "Newton’s Law",
+        "c": "Euler’s Law",
+        "d": "Bernoulli’s Law"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(8) In which of the following conditions can the Bernoulli equation not be used?",
+      "answers": {
+        "a": "Viscous flow",
+        "b": "Incompressible fluid",
+        "c": "Laminar flow",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(9) Incompressible flow is when:",
+      "answers": {
+        "a": "Change in viscosity of fluid is negligible",
+        "b": "Change in thermal properties of fluid is negligible",
+        "c": "Change in density of fluid is negligible",
+        "d": "Change in density of fluid is large"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(10) Inviscid flow assumes that:",
+      "answers": {
+        "a": "Thermal forces are negligible",
+        "b": "Thermal forces are large",
+        "c": "Viscous effects are negligible",
+        "d": "Viscous effects are large"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
