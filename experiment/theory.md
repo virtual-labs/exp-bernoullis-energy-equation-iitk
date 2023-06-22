@@ -1,9 +1,9 @@
 1. Introduction <br>
-<img src="![Alt text](11-1.jpg)"><br>
+<img src="11.jpg"><br>
 Fig. 1: Flow over an airfoil<br>
 Bernoulli’s theorem mathematically provides insight in understanding the fluid mechanics. Bernoulli’s equation is applicable to many real-world applications, for e.g. understanding aerodynamics of car, airplane; wind loading on civil structures like buildings, towers; city sewer and water networks; flow measurement devices like venturi meters, etc. Even though the mathematical expression for Bernoulli’s theorem is simple but the principle plays major roles in the technologly and designing to improve human life. <br>
 2. Components of Experimental setup<br>
-<img src="![Alt text](13.jpg)"><br>
+<img src="13.jpg"><br>
 Fig. 3: Test bench with complete experimental setup<br>
 Fig. 3, shows a schematic of test rig or bench to validate Bernoulli’s equation in a variable diameter pipe, who’s each part is explained as follow:<br>
 2.1 Flow Meter<br>
