@@ -1,9 +1,9 @@
 1. Introduction <br>
-<img src="(11.jpg)"><br>
+<img src="![Alt text](11-1.jpg)"><br>
 Fig. 1: Flow over an airfoil<br>
 Bernoulli’s theorem mathematically provides insight in understanding the fluid mechanics. Bernoulli’s equation is applicable to many real-world applications, for e.g. understanding aerodynamics of car, airplane; wind loading on civil structures like buildings, towers; city sewer and water networks; flow measurement devices like venturi meters, etc. Even though the mathematical expression for Bernoulli’s theorem is simple but the principle plays major roles in the technologly and designing to improve human life. <br>
 2. Components of Experimental setup<br>
-![Alt text](13.jpg)
+<img src="![Alt text](13.jpg)"><br>
 Fig. 3: Test bench with complete experimental setup<br>
 Fig. 3, shows a schematic of test rig or bench to validate Bernoulli’s equation in a variable diameter pipe, who’s each part is explained as follow:<br>
 2.1 Flow Meter<br>
@@ -20,7 +20,7 @@ Pressure tapings are provided across the length of the variable diameter pipe. T
 Sump is provided to store sufficient waters for independent circulation through the unit for experimentation and arranged within the floor space of the main unit<br>
 
 Bernoulli’s equation assumes that the flow is steady, incompressible and friction losses are negligible. These assumptions are also based on the laws of conservation of mass and energy.  Bernoulli’s equation states that the “sum of the kinetic energy (velocity head), the pressure energy (static head) and Potential energy (elevation head) per unit weight of the fluid at any point remains constant” provided the flow is steady, irrotational, and frictionless and the fluid used is incompressible. This is however, on the assumption that energy is neither added to nor taken away by some external agency. The key approximation in the derivation of Bernoulli’s equation is that viscous effects are negligibly small compared to inertial, gravitational, and pressure effects </br>
-<img src= "images\14.jpg"> </br>
+<img src= "images\14.jpg"></br>
 We can write the theorem for stations 1,2 and 3 (see Fig. 4) as:<br>
 P<sub>1</sub>/ρg+(V<sub>1</sub><sup>2</sup>)/2g+Z<sub>1</sub>= P<sub>2</sub>/ρg+(V<sub>2</sub><sup>2</sup>)/2g+Z<sub>2</sub>=P<sub>3</sub>/ρg+(V<sub>3</sub><sup>2</sup>)/2g +Z<sub>3</sub> <br>
 Where frictional losses h<sub>f</sub> = 0, is assumed to be negligible as compared to inertial, gravitational and pressure effects.<br>
