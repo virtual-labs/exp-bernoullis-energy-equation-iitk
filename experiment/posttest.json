@@ -38,10 +38,10 @@
     {
       "question": "(3) Stagnation pressure is defined as:",
       "answers": {
-        "a": "P_total + (ρV<sup>2</sup>)/2",
-        "b": "P_static+ (ρV<sup>2</sup>)/2",
-        "c": "P_static+ ρV/2",
-        "d": "P_total+  ρV/2"
+        "a": "P<sub>total</sub> + (ρV<sup>2</sup>)/2",
+        "b": "P<sub>static</sub>+ (ρV<sup>2</sup>)/2",
+        "c": "P<sub>static</sub>+ ρV/2",
+        "d": "P<sub>total</sub>+  ρV/2"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
