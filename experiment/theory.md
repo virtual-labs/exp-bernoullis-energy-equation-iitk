@@ -21,6 +21,7 @@ Sump is provided to store sufficient waters for independent circulation through 
 
 Bernoulli’s equation assumes that the flow is steady, incompressible and friction losses are negligible. These assumptions are also based on the laws of conservation of mass and energy.  Bernoulli’s equation states that the “sum of the kinetic energy (velocity head), the pressure energy (static head) and Potential energy (elevation head) per unit weight of the fluid at any point remains constant” provided the flow is steady, irrotational, and frictionless and the fluid used is incompressible. This is however, on the assumption that energy is neither added to nor taken away by some external agency. The key approximation in the derivation of Bernoulli’s equation is that viscous effects are negligibly small compared to inertial, gravitational, and pressure effects </br>
 <img src= "images\14.jpg"></br>
+Fig. 4: Pipe flow <br>
 We can write the theorem for stations 1,2 and 3 (see Fig. 4) as:<br>
 P<sub>1</sub>/ρg+(V<sub>1</sub><sup>2</sup>)/2g+Z<sub>1</sub>= P<sub>2</sub>/ρg+(V<sub>2</sub><sup>2</sup>)/2g+Z<sub>2</sub>=P<sub>3</sub>/ρg+(V<sub>3</sub><sup>2</sup>)/2g +Z<sub>3</sub> <br>
 Where frictional losses h<sub>f</sub> = 0, is assumed to be negligible as compared to inertial, gravitational and pressure effects.<br>
