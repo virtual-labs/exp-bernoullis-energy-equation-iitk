@@ -38,4 +38,4 @@ P<sub>1</sub>/ρg+(V<sub>1</sub><sup>2</sup>)/2g=  P<sub>2</sub>/ρg+(V<sub>2</s
 
 Observations –<br>
 1. Area of the tank (A) = 0.45 m<sup>2</sup><br>
-<img src="images\(table.png)"><br>
+<img src="images/(table-1.png)"><br>
