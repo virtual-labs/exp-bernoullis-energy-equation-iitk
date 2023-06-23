@@ -1,22 +1,29 @@
-1. Introduction <br>
+### (1) Introduction <br>
 <img src="images\11.jpg"><br>
 Fig. 1: Flow over an airfoil<br>
 Bernoulli’s theorem mathematically provides insight in understanding the fluid mechanics. Bernoulli’s equation is applicable to many real-world applications, for e.g. understanding aerodynamics of car, airplane; wind loading on civil structures like buildings, towers; city sewer and water networks; flow measurement devices like venturi meters, etc. Even though the mathematical expression for Bernoulli’s theorem is simple but the principle plays major roles in the technologly and designing to improve human life. <br>
-2. Components of Experimental setup<br>
+
+### (2) Components of Experimental setup<br>
 <img src="images\13.jpg"><br>
 Fig. 3: Test bench with complete experimental setup<br>
 Fig. 3, shows a schematic of test rig or bench to validate Bernoulli’s equation in a variable diameter pipe, who’s each part is explained as follow:<br>
-2.1 Flow Meter<br>
+
+ ### 2.1 Flow Meter<br>
 The test bench consists of flow meter for the experiments. The meter shows the amount of water flowing through the pipe<br>
-2.2	Control Valve<br>
+
+### 2.2	Control Valve<br>
 A Control valve is provided through which the flow rate of the water flowing through the pipes is controlled. <br>
-2.3	Variable Diameter Pipe<br>
+
+ ### 2.3 Variable Diameter Pipe<br>
 A variable diameter acrylic pipe is the test section where manometers are attached at various cross-sections to note down pressure head.<br>
-2.4	Measuring Tank<br>
+
+ ### 2.4 Measuring Tank<br>
 Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filed in the tank.<br>
-2.5	Manometer <br>
+
+ ### 2.5 Manometer <br>
 Pressure tapings are provided across the length of the variable diameter pipe. The reading of the pressure tapings will provide the pressure head at various locations across the length of the pipe.<br>
-2.6	Sump <br>
+
+ ### 2.6 Sump <br>
 Sump is provided to store sufficient waters for independent circulation through the unit for experimentation and arranged within the floor space of the main unit<br>
 
 Bernoulli’s equation assumes that the flow is steady, incompressible and friction losses are negligible. These assumptions are also based on the laws of conservation of mass and energy.  Bernoulli’s equation states that the “sum of the kinetic energy (velocity head), the pressure energy (static head) and Potential energy (elevation head) per unit weight of the fluid at any point remains constant” provided the flow is steady, irrotational, and frictionless and the fluid used is incompressible. This is however, on the assumption that energy is neither added to nor taken away by some external agency. The key approximation in the derivation of Bernoulli’s equation is that viscous effects are negligibly small compared to inertial, gravitational, and pressure effects </br>
