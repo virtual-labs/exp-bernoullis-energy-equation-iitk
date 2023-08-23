@@ -1,4 +1,4 @@
-### (6) Procedure
+###  Procedure
 The following steps are to be followed to validate Bernoulli’s equation:<br>
 1.	Check whether all the joints and the sump are not leaking </br>
 2.	Fill in the stump tank with clean water</br>
@@ -11,7 +11,7 @@ The following steps are to be followed to validate Bernoulli’s equation:<br>
 9.	Close the ball valve of the collecting tank and measure the time for the known rise of water.</br>
 10.	Change the flow rate and repeat the experiment</br>
 
-### 6.1	Formulae </br>
+### 	Formulae </br>
 
 1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
 Note down the time required for the rice of 10 cm (i.e. 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
@@ -38,4 +38,4 @@ P<sub>1</sub>/ρg+(V<sub>1</sub><sup>2</sup>)/2g=  P<sub>2</sub>/ρg+(V<sub>2</s
 
 Observations –<br>
 1. Area of the tank (A) = 0.45 m<sup>2</sup><br>
-<img src="images\(table.png)"><br>
+<img src="images\image1.png"><br>
