@@ -36,6 +36,6 @@ A = Cross sectional area of the pipe at a given water column =  (πD<sup>2</sup>
 After estimating pressure head and velocity head at various cross sections of variable diameter pipe, the summation of both should be constant i.e.<br> 
 P<sub>1</sub>/ρg+(V<sub>1</sub><sup>2</sup>)/2g=  P<sub>2</sub>/ρg+(V<sub>2</sub><sup>2</sup>)/2g  =  P<sub>3</sub>/ρg+(V<sub>3</sub><sup>2</sup>)/2g=⋯=Constant<br>
 
-Observations –<br>
+<b>Observations –</b><br>
 1. Area of the tank (A) = 0.45 m<sup>2</sup><br>
 <img src="images\image1.png"><br>
