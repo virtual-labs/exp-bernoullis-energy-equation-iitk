@@ -1,1 +1,1 @@
-## Experiment name
+## Verifying Bernoulli's energy equation
