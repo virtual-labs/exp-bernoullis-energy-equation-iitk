@@ -10,10 +10,10 @@
         "d": "Laplace"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Euler. Bernoulli’s equation is derived from Euler’s equations of motion for an inviscid, incompressible fluid. Euler's equations describe the balance of forces in a fluid flow and are a starting point for deriving Bernoulli's principle, which relates pressure, velocity, and elevation in a moving fluid.",
+        "b": "The correct answer is Euler. Bernoulli’s equation is derived from Euler’s equations of motion for an inviscid, incompressible fluid. Euler's equations describe the balance of forces in a fluid flow and are a starting point for deriving Bernoulli's principle, which relates pressure, velocity, and elevation in a moving fluid.",
+        "c": "The correct answer is Euler. Bernoulli’s equation is derived from Euler’s equations of motion for an inviscid, incompressible fluid. Euler's equations describe the balance of forces in a fluid flow and are a starting point for deriving Bernoulli's principle, which relates pressure, velocity, and elevation in a moving fluid.",
+        "d": "The correct answer is Euler. Bernoulli’s equation is derived from Euler’s equations of motion for an inviscid, incompressible fluid. Euler's equations describe the balance of forces in a fluid flow and are a starting point for deriving Bernoulli's principle, which relates pressure, velocity, and elevation in a moving fluid."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Bernoulli. The lift generated on an airplane wing is largely explained by Bernoulli's principle. As air flows over the curved upper surface of the wing, it speeds up and the pressure decreases. The higher pressure below the wing compared to the lower pressure above creates lift.",
+        "b": "The correct answer is Bernoulli. The lift generated on an airplane wing is largely explained by Bernoulli's principle. As air flows over the curved upper surface of the wing, it speeds up and the pressure decreases. The higher pressure below the wing compared to the lower pressure above creates lift.",
+        "c": "The correct answer is Bernoulli. The lift generated on an airplane wing is largely explained by Bernoulli's principle. As air flows over the curved upper surface of the wing, it speeds up and the pressure decreases. The higher pressure below the wing compared to the lower pressure above creates lift.",
+        "d": "The correct answer is Bernoulli. The lift generated on an airplane wing is largely explained by Bernoulli's principle. As air flows over the curved upper surface of the wing, it speeds up and the pressure decreases. The higher pressure below the wing compared to the lower pressure above creates lift."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Minimum pressure and minimum speed"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is minimum pressure and maximum speed. According to Bernoulli's principle, in a streamline flow, when the cross-sectional area of the pipe decreases, the speed of the fluid increases, resulting in a decrease in pressure at the narrowest part of the pipe.",
+        "b": "The correct answer is minimum pressure and maximum speed. According to Bernoulli's principle, in a streamline flow, when the cross-sectional area of the pipe decreases, the speed of the fluid increases, resulting in a decrease in pressure at the narrowest part of the pipe.",
+        "c": "The correct answer is minimum pressure and maximum speed. According to Bernoulli's principle, in a streamline flow, when the cross-sectional area of the pipe decreases, the speed of the fluid increases, resulting in a decrease in pressure at the narrowest part of the pipe.",
+        "d": "The correct answer is minimum pressure and maximum speed. According to Bernoulli's principle, in a streamline flow, when the cross-sectional area of the pipe decreases, the speed of the fluid increases, resulting in a decrease in pressure at the narrowest part of the pipe."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Orrifice"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is thermometer. Bernoulli’s equation applies to fluid dynamics and is used in devices like Pitot tubes, Venturi meters, and orifice plates to measure flow rates and pressures. It is not relevant to the functioning of a thermometer, which measures temperature.",
+        "b": "The correct answer is thermometer. Bernoulli’s equation applies to fluid dynamics and is used in devices like Pitot tubes, Venturi meters, and orifice plates to measure flow rates and pressures. It is not relevant to the functioning of a thermometer, which measures temperature.",
+        "c": "The correct answer is thermometer. Bernoulli’s equation applies to fluid dynamics and is used in devices like Pitot tubes, Venturi meters, and orifice plates to measure flow rates and pressures. It is not relevant to the functioning of a thermometer, which measures temperature.",
+        "d": "The correct answer is thermometer. Bernoulli’s equation applies to fluid dynamics and is used in devices like Pitot tubes, Venturi meters, and orifice plates to measure flow rates and pressures. It is not relevant to the functioning of a thermometer, which measures temperature."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is all of the above. Bernoulli’s equation applies to any scenario where fluid flow is analyzed, including airfoils (for lift generation), Venturi meters (for flow measurement), and orifices (for pressure drop calculation).",
+        "b": "The correct answer is all of the above. Bernoulli’s equation applies to any scenario where fluid flow is analyzed, including airfoils (for lift generation), Venturi meters (for flow measurement), and orifices (for pressure drop calculation).",
+        "c": "The correct answer is all of the above. Bernoulli’s equation applies to any scenario where fluid flow is analyzed, including airfoils (for lift generation), Venturi meters (for flow measurement), and orifices (for pressure drop calculation).",
+        "d": "The correct answer is all of the above. Bernoulli’s equation applies to any scenario where fluid flow is analyzed, including airfoils (for lift generation), Venturi meters (for flow measurement), and orifices (for pressure drop calculation)."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -95,10 +95,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is energy conservation. Bernoulli’s equation is derived from the principle of conservation of energy. It states that the total mechanical energy (kinetic, potential, and pressure energy) along a streamline remains constant in an incompressible, frictionless flow.",
+        "b": "The correct answer is energy conservation. Bernoulli’s equation is derived from the principle of conservation of energy. It states that the total mechanical energy (kinetic, potential, and pressure energy) along a streamline remains constant in an incompressible, frictionless flow.",
+        "c": "The correct answer is energy conservation. Bernoulli’s equation is derived from the principle of conservation of energy. It states that the total mechanical energy (kinetic, potential, and pressure energy) along a streamline remains constant in an incompressible, frictionless flow.",
+        "d": "The correct answer is energy conservation. Bernoulli’s equation is derived from the principle of conservation of energy. It states that the total mechanical energy (kinetic, potential, and pressure energy) along a streamline remains constant in an incompressible, frictionless flow."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "Irrotational flow"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is incompressible flow. Bernoulli’s equation assumes that the fluid density is constant (incompressible flow), which simplifies the energy conservation equation by excluding changes in density.",
+        "b": "The correct answer is incompressible flow. Bernoulli’s equation assumes that the fluid density is constant (incompressible flow), which simplifies the energy conservation equation by excluding changes in density.",
+        "c": "The correct answer is incompressible flow. Bernoulli’s equation assumes that the fluid density is constant (incompressible flow), which simplifies the energy conservation equation by excluding changes in density.",
+        "d": "The correct answer is incompressible flow. Bernoulli’s equation assumes that the fluid density is constant (incompressible flow), which simplifies the energy conservation equation by excluding changes in density."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -129,10 +129,10 @@
         "d": "Newton’s Law"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Bernoulli’s Law. Bernoulli's equation relates the pressure difference between two points in a flowing fluid to the changes in the fluid's kinetic and potential energy.",
+        "b": "The correct answer is Bernoulli’s Law. Bernoulli's equation relates the pressure difference between two points in a flowing fluid to the changes in the fluid's kinetic and potential energy.",
+        "c": "The correct answer is Bernoulli’s Law. Bernoulli's equation relates the pressure difference between two points in a flowing fluid to the changes in the fluid's kinetic and potential energy.",
+        "d": "The correct answer is Bernoulli’s Law. Bernoulli's equation relates the pressure difference between two points in a flowing fluid to the changes in the fluid's kinetic and potential energy."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -146,10 +146,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is fluid. Bernoulli’s equation is a fundamental principle in fluid mechanics and is used to describe the behavior of fluids in motion.",
+        "b": "The correct answer is fluid. Bernoulli’s equation is a fundamental principle in fluid mechanics and is used to describe the behavior of fluids in motion.",
+        "c": "The correct answer is fluid. Bernoulli’s equation is a fundamental principle in fluid mechanics and is used to describe the behavior of fluids in motion.",
+        "d": "The correct answer is fluid. Bernoulli’s equation is a fundamental principle in fluid mechanics and is used to describe the behavior of fluids in motion."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "Bernoulli’s Law"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Bernoulli’s Law. The airflow over an airfoil can be analyzed using Bernoulli’s principle, which explains how changes in velocity and pressure create lift.",
+        "b": "The correct answer is Bernoulli’s Law. The airflow over an airfoil can be analyzed using Bernoulli’s principle, which explains how changes in velocity and pressure create lift.",
+        "c": "The correct answer is Bernoulli’s Law. The airflow over an airfoil can be analyzed using Bernoulli’s principle, which explains how changes in velocity and pressure create lift.",
+        "d": "The correct answer is Bernoulli’s Law. The airflow over an airfoil can be analyzed using Bernoulli’s principle, which explains how changes in velocity and pressure create lift."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
