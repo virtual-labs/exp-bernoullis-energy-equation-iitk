@@ -24,7 +24,7 @@
         "a": "Static pressure",
         "b": "Stagnation pressure",
         "c": "Dynamic pressure",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is static pressure. In Bernoulli's equation, the pressure term refers to static pressure, which is the actual pressure at a point in the fluid.",
@@ -58,13 +58,13 @@
         "a": "steady",
         "b": "irrotational",
         "c": "frictionless",
-        "d": "All of the above"
+        "d": "All of these"
       },
       "explanations": {
-        "a": "The correct answer is all of the above. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
-        "b": "The correct answer is all of the above. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
-        "c": "The correct answer is all of the above. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
-        "d": "The correct answer is all of the above. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios."
+        "a": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
+        "b": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
+        "c": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
+        "d": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -126,7 +126,7 @@
         "a": "Viscous flow",
         "b": "Incompressible fluid",
         "c": "Laminar flow",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is viscous flow. Bernoulli's equation does not apply to flows with significant viscous effects because it assumes a frictionless (inviscid) fluid.",
