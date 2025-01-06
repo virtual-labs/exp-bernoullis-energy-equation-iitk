@@ -1,29 +1,29 @@
-### (1) Introduction <br>
+ <b><font size="4">1. Introduction</font></b> <br>
 <img src="images\11.jpg"><br>
 <!-- Fig. 1: Flow over an airfoil<br> -->
 Bernoulli’s theorem mathematically provides insight in understanding the fluid mechanics. Bernoulli’s equation is applicable to many real-world applications, for e.g. understanding aerodynamics of car, airplane; wind loading on civil structures like buildings, towers; city sewer and water networks; flow measurement devices like venturi meters, etc. Even though the mathematical expression for Bernoulli’s theorem is simple but the principle plays major roles in the technologly and designing to improve human life. <br>
 
-### (2) Components of Experimental setup<br>
+ <b><font size="4">2. Components of Experimental setup</font></b><br>
 <img src="images\13.jpg"><br>
 <!-- Fig. 3: Test bench with complete experimental setup<br> -->
 Fig. 2, shows a schematic of test rig or bench to validate Bernoulli’s equation in a variable diameter pipe, who’s each part is explained as follow:<br>
 
- ### 2.1 Flow Meter<br>
+<b> 2.1 Flow Meter</b><br>
 The test bench consists of flow meter for the experiments. The meter shows the amount of water flowing through the pipe<br>
 
-### 2.2	Control Valve<br>
+<b> 2.2	 Control Valve</b><br>
 A Control valve is provided through which the flow rate of the water flowing through the pipes is controlled. <br>
 
- ### 2.3 Variable Diameter Pipe<br>
+<b> 2.3 Variable Diameter Pipe</b><br>
 A variable diameter acrylic pipe is the test section where manometers are attached at various cross-sections to note down pressure head.<br>
 
- ### 2.4 Measuring Tank<br>
+<b>2.4 Measuring Tank</b><br>
 Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filed in the tank.<br>
 
- ### 2.5 Manometer <br>
+<b> 2.5 Manometer </b><br>
 Pressure tapings are provided across the length of the variable diameter pipe. The reading of the pressure tapings will provide the pressure head at various locations across the length of the pipe.<br>
 
- ### 2.6 Sump <br>
+<b> 2.6 Sump </b><br>
 Sump is provided to store sufficient waters for independent circulation through the unit for experimentation and arranged within the floor space of the main unit<br>
 
 ### (3) Theory <br>
@@ -63,4 +63,4 @@ P is the static pressure since it does not incorporate any dynamic effects<br>
 (ρV<sup>2</sup>)/2  is the dynamic pressure<br>
 ρgZ is the hydrostatic pressure (is omitted in this case as pipe is horizontally placed). Its value depends on the reference level selected; it accounts for the elevation effects<br>
 The sum of the static, dynamic pressures and hydrostatic pressure is called the total pressure. In other words, the Bernoulli equation states that the total pressure along a streamline is constant. The sum of the static and dynamic pressures is called the stagnation pressure, and it is expressed as:<br>
-P<sub>Stagnation</sub>=P+(ρV<sup>2</sup>)/2 -->
+
