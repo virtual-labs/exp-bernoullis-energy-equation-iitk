@@ -24,7 +24,7 @@
         "a": "Static pressure",
         "b": "Stagnation pressure",
         "c": "Dynamic pressure",
-        "d": "None of these"
+        "d": "Static and Dynamic pressure"
       },
       "explanations": {
         "a": "The correct answer is static pressure. In Bernoulli's equation, the pressure term refers to static pressure, which is the actual pressure at a point in the fluid.",
@@ -126,7 +126,7 @@
         "a": "Viscous flow",
         "b": "Incompressible fluid",
         "c": "Laminar flow",
-        "d": "None of these"
+        "d": "Uniform flow"
       },
       "explanations": {
         "a": "The correct answer is viscous flow. Bernoulli's equation does not apply to flows with significant viscous effects because it assumes a frictionless (inviscid) fluid.",
