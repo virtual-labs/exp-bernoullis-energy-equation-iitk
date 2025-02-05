@@ -34,7 +34,7 @@ A = Cross sectional area of the pipe at a given water column =  (πD<sup>2</sup>
 
 3. Validation of Bernoulli’s Equation:
 After estimating pressure head and velocity head at various cross sections of variable diameter pipe, the summation of both should be constant i.e.<br> 
-<img src="images\image1.png"><br>
+<img src="images\imageb.png"><br>
 
 <b>Observations –</b><br>
 1. Area of the tank (A) = 0.45 m<sup>2</sup><br>
