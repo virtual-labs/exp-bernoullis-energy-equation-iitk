@@ -55,10 +55,10 @@
     {
       "question": "(4) Assumption of flow in Bernoulli’s theorem: ",
       "answers": {
-        "a": "steady",
-        "b": "irrotational",
-        "c": "frictionless",
-        "d": "All of these"
+        "a": "Steady",
+        "b": "Irrotational",
+        "c": "Frictionless",
+        "d": "All of the above"
       },
       "explanations": {
         "a": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
