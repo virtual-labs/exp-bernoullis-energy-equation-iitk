@@ -14,7 +14,7 @@ The following steps are to be followed to validate Bernoulli’s equation:<br>
 ### 	Formulae </br>
 
 1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
-Note down the time required for the rice of 10 cm (i.e. 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
+Note down the time required for the rise of 10 cm (i.e. 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
 Q<sub>act</sub>=((A×R)/t) <br>
 A = area of the collecting tank in m² <br>
@@ -22,13 +22,13 @@ R = rise of water level taken in meters (say 0.1 m or 10 cm) <br>
 t = time taken for rise of water level to height ‘R’ in seconds<br>
 
 Pressure head = P/ρg = h (m of water)<br>
-ρ = Density of water in Kg/m² <br>
+ρ = Density of water in Kg/m<sup>3</sup> <br>
 g = Acceleration due to gravity in m/s² <br>
 h = Head measured in water column in m <br>
 
 2. Calculate the velocity head: <br>
 
-Velocity head=V<sup>2</sup>/2g=Q/A<br>
+Velocity head=V<sup>2</sup>/2g
 
 A = Cross sectional area of the pipe at a given water column =  (πD<sup>2</sup>)/4<br>
 

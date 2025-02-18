@@ -21,10 +21,10 @@
     {
       "question": "(2) Lift generated in an airplane is based on:",
       "answers": {
-        "a": "Laplace",
-        "b": "Bernoulli",
-        "c": "Runge Kutta",
-        "d": "Taylor’s principle"
+        "a": "Laplace equation",
+        "b": "Bernoulli and Newton equation",
+        "c": "Runge Kutta equation",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "The correct answer is Bernoulli. The lift generated on an airplane wing is largely explained by Bernoulli's principle. As air flows over the curved upper surface of the wing, it speeds up and the pressure decreases. The higher pressure below the wing compared to the lower pressure above creates lift.",
