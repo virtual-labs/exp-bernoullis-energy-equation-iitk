@@ -58,7 +58,7 @@
         "a": "Pitot tube ",
         "b": "Thermometer",
         "c": "Venturi",
-        "d": "Orrifice"
+        "d": "Orifice"
       },
       "explanations": {
         "a": "The correct answer is thermometer. Bernoulli’s equation applies to fluid dynamics and is used in devices like Pitot tubes, Venturi meters, and orifice plates to measure flow rates and pressures. It is not relevant to the functioning of a thermometer, which measures temperature.",
@@ -109,7 +109,7 @@
         "a": "Incompressible flow",
         "b": "Compressible flow",
         "c": "Viscous flow",
-        "d": "Irrotational flow"
+        "d": "Inviscid flow"
       },
       "explanations": {
         "a": "The correct answer is incompressible flow. Bernoulli’s equation assumes that the fluid density is constant (incompressible flow), which simplifies the energy conservation equation by excluding changes in density.",
@@ -124,7 +124,7 @@
       "question": "(8) ______________ equation relates the change in pressure between two points in a pipe to changes in kinetic and potential energy.",
       "answers": {
         "a": "Poiseuille’s Law",
-        "b": "Bernoulli’s Law",
+        "b": "Bernoulli’s Equation",
         "c": "Euler’s Law",
         "d": "Newton’s Law"
       },
