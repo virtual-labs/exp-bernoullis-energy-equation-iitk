@@ -1,9 +1,9 @@
- <b><font size="4">1. Introduction</font></b> <br>
+ <b>1. Introduction</b> <br>
 <img src="images\11.jpg"><br>
 <!-- Fig. 1: Flow over an airfoil<br> -->
 Bernoulli’s theorem mathematically provides insight in understanding the fluid mechanics. Bernoulli’s equation is applicable to many real-world applications, for e.g. understanding aerodynamics of car, airplane; wind loading on civil structures like buildings, towers; city sewer and water networks; flow measurement devices like venturi meters, etc. Even though the mathematical expression for Bernoulli’s theorem is simple but the principle plays major roles in the technology and designing to improve human life. <br>
 
- <b><font size="4">2. Components of Experimental setup</font></b><br>
+ <b>2. Components of Experimental setup</b><br>
 <img src="images\13.jpg"><br>
 <!-- Fig. 3: Test bench with complete experimental setup<br> -->
 Fig. 2, shows a schematic of test rig or bench to validate Bernoulli’s equation in a variable diameter pipe, whose each  part is explained as follows :<br>
@@ -26,7 +26,7 @@ Pressure tapings are provided across the length of the variable diameter pipe. T
 <b> 2.6 Sump </b><br>
 Sump is provided to store sufficient water for independent circulation through the unit for experimentation and arranged within the floor space of the main unit<br>
 
-### (3) Theory <br>
+<b>3. Theory</b><br>
 
 Bernoulli’s equation assumes that the fluid flow is steady, incompressible and friction losses are negligible. These assumptions are also based on the laws of conservation of mass and energy. It can be applied between any two points in the flow field, if the flow is irrotational. However, for the rotational flow, the two points must lie in the same streamline. Bernoulli’s equation states that the “sum of the kinetic energy (velocity head), the pressure energy (static head) and Potential energy (elevation head) per unit weight of the fluid at any point remains constant” provided the flow is steady, irrotational, and frictionless and the fluid used is incompressible. This is however, on the assumption that energy is neither added to nor taken away by some external agency. The key approximation in the derivation of Bernoulli’s equation is that viscous effects are negligibly small compared to inertial, gravitational, and pressure effects </br>
 <img src= "images\14.jpg"></br>
@@ -44,7 +44,7 @@ Or rewriting the above equation:<br>
 <img src= "images\17.jpg"></br><br>
 
 ● 	P is the static pressure since it does not incorporate any dynamic effects<br>
-● 	(ρV^2)/2  is the dynamic pressure<br>
+● 	(ρV<sup>2</sup>)/2  is the dynamic pressure<br>
 ● 	ρgZ is the hydrostatic pressure (is omitted in this case as pipe is horizontally placed). Its value depends on the reference level selected; it accounts for the elevation effects<br><br>
 
 The sum of the static, dynamic pressures and hydrostatic pressure is called the total pressure. In other words, the Bernoulli equation states that the total pressure along a streamline is constant. The sum of the static and dynamic pressures is called the stagnation pressure, and it is expressed as:<br>
