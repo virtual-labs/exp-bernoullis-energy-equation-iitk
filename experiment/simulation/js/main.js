@@ -502,7 +502,8 @@ function fillTankFront(h) {
     if (valvePositioning.value == 1) highlightArrowFn(valvePositioningContainer);
     if (valvePositioning.value == 2) {
       document.getElementById("steps").innerHTML =
-        "Take note of the current time on the timer.";
+        // "Take note of the current time on the timer.";
+        "Calculate the energy using the table below."
     }
     // purzeButton.disabled = false;
   }, 4000);
