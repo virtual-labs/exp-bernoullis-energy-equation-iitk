@@ -21,7 +21,7 @@ A variable diameter acrylic pipe is the test section where manometers are attach
 Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filled in the tank.<br>
 
 <b> 2.5 Manometer </b><br>
-Pressure tapings are provided across the length of the variable diameter pipe. The reading of the pressure tapings will provide the pressure head at various locations across the length of the pipe.<br>
+Pressure tappings are provided across the length of the variable diameter pipe. The reading of the pressure tapings will provide the pressure head at various locations across the length of the pipe.<br>
 
 <b> 2.6 Sump </b><br>
 Sump is provided to store sufficient water for independent circulation through the unit for experimentation and arranged within the floor space of the main unit<br>
@@ -31,7 +31,7 @@ Sump is provided to store sufficient water for independent circulation through t
 Bernoulli’s equation assumes that the fluid flow is steady, incompressible and friction losses are negligible. These assumptions are also based on the laws of conservation of mass and energy. It can be applied between any two points in the flow field, if the flow is irrotational. However, for the rotational flow, the two points must lie in the same streamline. Bernoulli’s equation states that the “sum of the kinetic energy (velocity head), the pressure energy (static head) and Potential energy (elevation head) per unit weight of the fluid at any point remains constant” provided the flow is steady, irrotational, and frictionless and the fluid used is incompressible. This is however, on the assumption that energy is neither added to nor taken away by some external agency. The key approximation in the derivation of Bernoulli’s equation is that viscous effects are negligibly small compared to inertial, gravitational, and pressure effects </br>
 <img src= "images\14.jpg"></br>
 <!-- Fig. 4: Pipe flow <br> -->
-For example, in fig. 3 the flow passing through three consecutive pipes i.e pipe 1, pipe 2 and pipe 3<br>
+For example, in Fig. 3 the flow passing through three consecutive pipes i.e pipe 1, pipe 2 and pipe 3<br>
 
 On applying the theorem for section 1,2 and 3 (see Fig. 3) as:<br>
 <img src= "images\15.jpg"></br>
