@@ -35,9 +35,10 @@ For example, in Fig. 3 the flow passing through three consecutive pipes i.e pipe
 
 On applying the theorem for section 1,2 and 3 (see Fig. 3) as:<br>
 <img src= "images\15.jpg"></br>
-Where frictional losses hf = 0, is assumed to be negligible as compared to inertial, gravitational and pressure effects.<br><br>
+Where frictional losses h<sub>f</sub> = 0, is assumed to be negligible as compared to inertial, gravitational and pressure effects.<br><br>
 
-Since pipe is horizontally placed hence,  Z_1=Z_2=Z_3  , hence:<br>
+Since pipe is horizontally placed hence,  Z<sub>1</sub>=Z<sub>2</sub>=Z<sub>3</sub>  , hence:<br>
+
 <img src= "images\16.jpg"></br><br>
 
 Or rewriting the above equation:<br>
