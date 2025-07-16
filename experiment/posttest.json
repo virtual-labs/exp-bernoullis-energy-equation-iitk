@@ -2,35 +2,171 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "(1) Dynamic pressure is defined as:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(ρV<sup>2</sup>)/2",
+        "b": "(3ρV<sup>2</sup>)/2",
+        "c": "ρV/2",
+        "d": "(ρV<sup>2</sup>)/4 "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is:- (ρV^2)/2. Dynamic pressure is the kinetic energy per unit volume of a fluid particle and is given by (ρV^2)/2.  where ρ is the fluid density and V is the flow velocity.",
+        "b": "The correct answer is:- (ρV^2)/2. Dynamic pressure is the kinetic energy per unit volume of a fluid particle and is given by (ρV^2)/2.  where ρ is the fluid density and V is the flow velocity.",
+        "c": "The correct answer is:- (ρV^2)/2. Dynamic pressure is the kinetic energy per unit volume of a fluid particle and is given by (ρV^2)/2.  where ρ is the fluid density and V is the flow velocity.",
+        "d": "The correct answer is:- (ρV^2)/2. Dynamic pressure is the kinetic energy per unit volume of a fluid particle and is given by (ρV^2)/2.  where ρ is the fluid density and V is the flow velocity."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "(2) Pressure term in Bernoulli’s equation is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Static pressure",
+        "b": "Stagnation pressure",
+        "c": "Dynamic pressure",
+        "d": "Static and Dynamic pressure"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is static pressure. In Bernoulli's equation, the pressure term refers to static pressure, which is the actual pressure at a point in the fluid.",
+        "b": "The correct answer is static pressure. In Bernoulli's equation, the pressure term refers to static pressure, which is the actual pressure at a point in the fluid.",
+        "c": "The correct answer is static pressure. In Bernoulli's equation, the pressure term refers to static pressure, which is the actual pressure at a point in the fluid.",
+        "d": "The correct answer is static pressure. In Bernoulli's equation, the pressure term refers to static pressure, which is the actual pressure at a point in the fluid."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(3) Stagnation pressure is defined as:",
+      "answers": {
+        "a": "P<sub>total</sub> + (ρV<sup>2</sup>)/2",
+        "b": "P<sub>static</sub>+ (ρV<sup>2</sup>)/2",
+        "c": "P<sub>static</sub>+ ρV/2",
+        "d": "P<sub>total</sub>+  ρV/2"
+      },
+      "explanations": {
+        "a": "The correct answer is:- P<sub>static</sub>+ (ρV<sup>2</sup>)/2. Stagnation pressure is the sum of the static pressure and the dynamic pressure, representing the pressure a fluid would have if it were brought to rest isentropically.",
+        "b": "The correct answer is:- P<sub>static</sub>+ (ρV<sup>2</sup>)/2. Stagnation pressure is the sum of the static pressure and the dynamic pressure, representing the pressure a fluid would have if it were brought to rest isentropically.",
+        "c": "The correct answer is:- P<sub>static</sub>+ (ρV<sup>2</sup>)/2. Stagnation pressure is the sum of the static pressure and the dynamic pressure, representing the pressure a fluid would have if it were brought to rest isentropically.",
+        "d": "The correct answer is:- P<sub>static</sub>+ (ρV<sup>2</sup>)/2. Stagnation pressure is the sum of the static pressure and the dynamic pressure, representing the pressure a fluid would have if it were brought to rest isentropically."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(4) Assumption of flow in Bernoulli’s theorem: ",
+      "answers": {
+        "a": "Steady",
+        "b": "Irrotational",
+        "c": "Frictionless",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
+        "b": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
+        "c": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios.",
+        "d": "The correct answer is all of these. Bernoulli’s theorem assumes that the flow is steady, irrotational, and frictionless, making it applicable to ideal fluid flow scenarios."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(5) Bernoulli’s equation holds true only for:",
+      "answers": {
+        "a": "low viscosity and incompressible fluid in turbulent flow",
+        "b": "low viscosity and compressible fluid in turbulent flow",
+        "c": "low viscosity and incompressible fluid in streamline flow",
+        "d": "high viscosity and incompressible fluid in streamline"
+      },
+      "explanations": {
+        "a": "The correct answer is low viscosity and incompressible fluid in streamline flow. Bernoulli’s equation is valid for incompressible, low-viscosity fluids in streamline (laminar) flow where viscous effects are negligible.",
+        "b": "The correct answer is low viscosity and incompressible fluid in streamline flow. Bernoulli’s equation is valid for incompressible, low-viscosity fluids in streamline (laminar) flow where viscous effects are negligible.",
+        "c": "The correct answer is low viscosity and incompressible fluid in streamline flow. Bernoulli’s equation is valid for incompressible, low-viscosity fluids in streamline (laminar) flow where viscous effects are negligible.",
+        "d": "The correct answer is low viscosity and incompressible fluid in streamline flow. Bernoulli’s equation is valid for incompressible, low-viscosity fluids in streamline (laminar) flow where viscous effects are negligible."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(6) In a horizontal pipe when water is not flowing, pressure 3x10<sup>5</sup> Pa. When water starts flowing pressure falls to 2.5x10<sup>5</sup> Pa. what is the flow velocity of water",
+      "answers": {
+        "a": "5",
+        "b": "10",
+        "c": "20",
+        "d": "15"
+      },
+      "explanations": {
+        "a": "The correct answer is 10. Using Bernoulli’s equation, we can calculate the flow velocity. The pressure difference of 0.5x10^5 Pa corresponds to the dynamic pressure term (ρV^2/2), solving for V gives the flow velocity.",
+        "b": "The correct answer is 10. Using Bernoulli’s equation, we can calculate the flow velocity. The pressure difference of 0.5x10^5 Pa corresponds to the dynamic pressure term (ρV^2/2), solving for V gives the flow velocity.",
+        "c": "The correct answer is 10. Using Bernoulli’s equation, we can calculate the flow velocity. The pressure difference of 0.5x10^5 Pa corresponds to the dynamic pressure term (ρV^2/2), solving for V gives the flow velocity.",
+        "d": "The correct answer is 10. Using Bernoulli’s equation, we can calculate the flow velocity. The pressure difference of 0.5x10^5 Pa corresponds to the dynamic pressure term (ρV^2/2), solving for V gives the flow velocity."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(7) Magnus effect is based on:",
+      "answers": {
+        "a": "Poiseuille’s Law",
+        "b": "Newton’s Law",
+        "c": "Euler’s Law",
+        "d": "Bernoulli’s Law"
+      },
+      "explanations": {
+        "a": "The correct answer is Bernoulli’s Law. The Magnus effect, where a spinning object generates a lifting force, can be explained by Bernoulli's principle, as the spin creates a difference in pressure on opposite sides of the object.",
+        "b": "The correct answer is Bernoulli’s Law. The Magnus effect, where a spinning object generates a lifting force, can be explained by Bernoulli's principle, as the spin creates a difference in pressure on opposite sides of the object.",
+        "c": "The correct answer is Bernoulli’s Law. The Magnus effect, where a spinning object generates a lifting force, can be explained by Bernoulli's principle, as the spin creates a difference in pressure on opposite sides of the object.",
+        "d": "The correct answer is Bernoulli’s Law. The Magnus effect, where a spinning object generates a lifting force, can be explained by Bernoulli's principle, as the spin creates a difference in pressure on opposite sides of the object."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(8) In which of the following conditions can the Bernoulli equation not be used?",
+      "answers": {
+        "a": "Viscous flow",
+        "b": "Incompressible fluid",
+        "c": "Laminar flow",
+        "d": "Uniform flow"
+      },
+      "explanations": {
+        "a": "The correct answer is viscous flow. Bernoulli's equation does not apply to flows with significant viscous effects because it assumes a frictionless (inviscid) fluid.",
+        "b": "The correct answer is viscous flow. Bernoulli's equation does not apply to flows with significant viscous effects because it assumes a frictionless (inviscid) fluid.",
+        "c": "The correct answer is viscous flow. Bernoulli's equation does not apply to flows with significant viscous effects because it assumes a frictionless (inviscid) fluid.",
+        "d": "The correct answer is viscous flow. Bernoulli's equation does not apply to flows with significant viscous effects because it assumes a frictionless (inviscid) fluid."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(9) Incompressible flow is when:",
+      "answers": {
+        "a": "Change in viscosity of fluid is negligible",
+        "b": "Change in thermal properties of fluid is negligible",
+        "c": "Change in density of fluid is negligible",
+        "d": "Change in density of fluid is large"
+      },
+      "explanations": {
+        "a": "The correct answer is change in density of fluid is negligible. Incompressible flow means that the fluid density remains nearly constant throughout the flow, simplifying the analysis and application of Bernoulli's equation.",
+        "b": "The correct answer is change in density of fluid is negligible. Incompressible flow means that the fluid density remains nearly constant throughout the flow, simplifying the analysis and application of Bernoulli's equation.",
+        "c": "The correct answer is change in density of fluid is negligible. Incompressible flow means that the fluid density remains nearly constant throughout the flow, simplifying the analysis and application of Bernoulli's equation.",
+        "d": "The correct answer is change in density of fluid is negligible. Incompressible flow means that the fluid density remains nearly constant throughout the flow, simplifying the analysis and application of Bernoulli's equation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "(10) Inviscid flow assumes that:",
+      "answers": {
+        "a": "Thermal forces are negligible",
+        "b": "Thermal forces are large",
+        "c": "Viscous effects are negligible",
+        "d": "Viscous effects are large"
+      },
+      "explanations": {
+        "a": "The correct answer is viscous effects are negligible. Inviscid flow assumes that the fluid has no viscosity, meaning there are no internal frictional forces, making it an idealization for simplifying fluid dynamics problems.",
+        "b": "The correct answer is viscous effects are negligible. Inviscid flow assumes that the fluid has no viscosity, meaning there are no internal frictional forces, making it an idealization for simplifying fluid dynamics problems.",
+        "c": "The correct answer is viscous effects are negligible. Inviscid flow assumes that the fluid has no viscosity, meaning there are no internal frictional forces, making it an idealization for simplifying fluid dynamics problems.",
+        "d": "The correct answer is viscous effects are negligible. Inviscid flow assumes that the fluid has no viscosity, meaning there are no internal frictional forces, making it an idealization for simplifying fluid dynamics problems."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
