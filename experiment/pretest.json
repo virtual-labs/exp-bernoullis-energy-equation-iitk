@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "(1) Bernoulli’s equation is derived from:",
+      "question": "“1.” Bernoulli’s equation is derived from:",
       "answers": {
         "a": "Poisson’s equation",
         "b": "Euler’s equation",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(2) Lift generated in an airplane is based on:",
+      "question": "“2.” Lift generated in an airplane is based on:",
       "answers": {
         "a": "Laplace equation",
         "b": "Bernoulli’s principle",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(3) In a horizontal pipe, water flowing through the narrowest part of pipe will have:",
+      "question": "“3.” In a horizontal pipe, water flowing through the narrowest part of pipe will have:",
       "answers": {
         "a": "Maximum pressure and maximum speed",
         "b": "Maximum pressure and minimum speed",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(4) Bernoulli’s Equation is not applicable to:",
+      "question": "“4.” Bernoulli’s Equation is not applicable to:",
       "answers": {
         "a": "Pitot tube ",
         "b": "Thermometer",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(5) Bernoulli’s equation applicable to:",
+      "question": "“5.” Bernoulli’s equation is applicable to:",
       "answers": {
         "a": "Airfoil",
         "b": "Venturi",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(6) Bernoulli’s equation is based on:",
+      "question": "“6.” Bernoulli’s equation is based on:",
       "answers": {
         "a": "Energy conservation",
         "b": "Momentum conservation",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(7) Bernoulli’s equation is applicable only to:",
+      "question": "“7.” Bernoulli’s equation is applicable only to:",
       "answers": {
         "a": "Incompressible flow",
         "b": "Compressible flow",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(8) <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> relates the change in pressure between two points in a pipe to changes in kinetic and potential energy.",
+      "question": "“8.” <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> relates the change in pressure between two points in a pipe to changes in kinetic and potential energy.",
       "answers": {
         "a": "Poiseuille’s law",
         "b": "Bernoulli’s equation",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(9) Bernoulli’s equation is applicable to:",
+      "question": "“9.” Bernoulli’s equation is applicable to:",
       "answers": {
         "a": "Temperature gradient",
         "b": "Electronic signals",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(10) Streamlines over an airfoil follow:",
+      "question": "“10.” Streamlines over an airfoil follow:",
       "answers": {
         "a": "Poiseuille’s Law",
         "b": "Newton’s Law",
