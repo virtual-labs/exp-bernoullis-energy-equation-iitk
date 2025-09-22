@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "(1) Dynamic pressure is defined as:",
+      "question": "“1.” Dynamic pressure is defined as:",
       "answers": {
         "a": "(ρV<sup>2</sup>)/2",
         "b": "(3ρV<sup>2</sup>)/2",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(2) Pressure term in Bernoulli’s equation is:",
+      "question": "“2.” Pressure term in Bernoulli’s equation is:",
       "answers": {
         "a": "Static pressure",
         "b": "Stagnation pressure",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(3) Stagnation pressure is defined as:",
+      "question": "“3.” Stagnation pressure is defined as:",
       "answers": {
         "a": "P<sub>total</sub> + (ρV<sup>2</sup>)/2",
         "b": "P<sub>static</sub>+ (ρV<sup>2</sup>)/2",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(4) Assumption of flow in Bernoulli’s theorem is that the flow is:",
+      "question": "“4.” Assumption of flow in Bernoulli’s theorem is that the flow is:",
       "answers": {
         "a": "Steady",
         "b": "Irrotational",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(5) Bernoulli’s equation holds true only for <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+      "question": "“5.” Bernoulli’s equation holds true only for <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>".,
       "answers": {
         "a": "low viscosity and incompressible fluid in turbulent flow",
         "b": "low viscosity and compressible fluid in turbulent flow",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(6) In a horizontal pipe when water is not flowing, the pressure is 3x10<sup>5</sup> Pa. When water starts flowing pressure falls to 2.5x10<sup>5</sup> Pa. What is the flow velocity of water?",
+      "question": "“6.”) In a horizontal pipe when water is not flowing, the pressure is 3x10<sup>5</sup> Pa. When water starts flowing pressure falls to 2.5x10<sup>5</sup> Pa. What is the flow velocity of water?",
       "answers": {
         "a": "5 m/s",
         "b": "10 m/s",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(7) Magnus effect is based on:",
+      "question": "“7.” Magnus effect is based on:",
       "answers": {
         "a": "Poiseuille’s Law",
         "b": "Newton’s Law",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(8) In which of the following conditions can the Bernoulli’s equation not be used?",
+      "question": "“8.” In which of the following conditions can the Bernoulli’s equation not be used?",
       "answers": {
         "a": "Viscous flow",
         "b": "Incompressible fluid",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(9) Incompressible flow is when:",
+      "question": "“9.” Incompressible flow is when:",
       "answers": {
         "a": "Change in viscosity of fluid is negligible",
         "b": "Change in thermal properties of fluid is negligible",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "(10) Inviscid flow assumes that:",
+      "question": "“10.” Inviscid flow assumes that:",
       "answers": {
         "a": "Thermal forces are negligible",
         "b": "Thermal forces are large",
